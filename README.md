@@ -1,5 +1,12 @@
 # Moving-a-servo-motor-using-Python
 
+Requirements:
+
+1. Servo Motor
+2. Python
+3. Raspberry Pi, Arduino
+4. Battery (Optional)
+
 In this project we show how to move a servo motor. 
 
 The servo motor works on an electrical pulse of variable with (PWM).
